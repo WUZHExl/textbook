@@ -35,7 +35,7 @@ JDK版本：1.8
 
 ### 五、获取地址
 
-获取地址&视频演示：
+获取地址&视频演示： https://www.bilibili.com/video/BV1JN4y1J785/?vd_source=028001f925591bf43f3d5b2cd134ddf2
 
 接毕业设计和论文
 
